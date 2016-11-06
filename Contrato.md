@@ -166,4 +166,11 @@ Parágrafo segundo. Caso a CONTRATADA dê motivo à rescisão do contrato, ser�
 
 11.3 - Para que surta seus jurídicos e legais efeitos OU as partes abaixo assinam, juntamente com duas testemunhas OU a CONTRATANTE preenche o "Termo Comprobatório de Concordância do Contrato", a ser certificado digitalmente e confirmado pela CONTRATADA.
 
-Por estarem assim justos e contratados, firmam o presente instrumento, em duas vias de igual teor, juntamente com 2 (duas) testemunhas. (Local, data e ano). (Nome e assinatura do Contratante) (Nome e assinatura do Contratado) (Nome, RG e assinatura da Testemunha 1) (Nome, RG e assinatura da Testemunha 2) Última edição feita em **11 de outubro de 2016**.
+Por estarem assim justos e contratados, firmam o presente instrumento, em duas vias de igual teor, juntamente com 2 (duas) testemunhas. 
+
+(Local, data e ano). 
+
+(Nome e assinatura do Contratante) 
+(Nome e assinatura do Contratado) 
+(Nome, RG e assinatura da Testemunha 1) 
+(Nome, RG e assinatura da Testemunha 2)
